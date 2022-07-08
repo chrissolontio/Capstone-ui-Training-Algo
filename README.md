@@ -1,5 +1,5 @@
 # Google Play Store Analytics
-<img src="https://raw.githubusercontent.com/fafilia/capstone-UIFlask/master/full_capstone.png">
+<img src="http://127.0.0.1:5000/">
 ## Introduction
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy Data Analytics Specialization. Deliverables yang diharapkan adalah Anda dapat membangun sebuah aplikasi web sederhana (dashboard) menggunakan framework Flask. Capstone ini akan fokus pada tampilan user interface Flask. 
 
